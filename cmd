@@ -1,4 +1,13 @@
 ls
 cd
 pwd
-
+cat
+cp
+mv
+mkdir
+rmdir
+rm
+touch
+locate
+find
+grep
